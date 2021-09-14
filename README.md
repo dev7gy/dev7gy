@@ -3,9 +3,7 @@
 - 📚 I’m currently reading to understand computering science better...
   - Book List
     - OS
-      - [OperatingSystem and Information Technology Principles](http://www.yes24.com/Product/Goods/90124877)
     - Network
-      - [모두의 네트워크](http://www.yes24.com/Product/Goods/61794014)
     - Algorithm
 - 💻 I'm currently practicing to get better...
   - Practicing List
