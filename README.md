@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev7gy
 - 🙏 My dream is to expand my influence for good to more people through the programming skills I have studied.
-- 📚 I’m currently reading to understand computering science better...
+- 📚 I’m currently reading to understand computer science better...
   - Book List
     - OS
     - Network
