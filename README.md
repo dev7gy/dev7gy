@@ -8,10 +8,9 @@
 - 💻 I'm currently practicing to get better...
   - Practicing List
     - SpringFramework
-      - [김영한 강사님 강의](https://www.inflearn.com/roadmaps/373)  
     - JPA
-      - [김영한 강사님 강의](https://www.inflearn.com/roadmaps/149)
-- 📫 How to reach me 
+- 📫 How to reach me
+  - [LinkedIn](https://www.linkedin.com/in/geonyoung-ra-bbab441b6) 
 
 <!---
 dev7gy/dev7gy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
